@@ -1,2 +1,2 @@
 # Папка с датасетами
-ПРоделанную работу можно посмотреть в репозитории [**Pandas**](https://github.com/nikolayGU/Pandas).
+Проделанную работу можно посмотреть в репозитории [**Pandas**](https://github.com/nikolayGU/Pandas), [BI](https://github.com/nikolayGU/Business_intelligence).
